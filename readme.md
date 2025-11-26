@@ -80,7 +80,7 @@ Burn Severity Map
 - Validation Stats
 ---
 
-## GeoDatabase
+## 5.GeoDatabase Structure
 ```
 root/
 │── data/
