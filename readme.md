@@ -57,7 +57,7 @@ Curvature = Curvature(DEM)
 ```
 Exposure = BurnSeverity * (LandCover == vegetation classes)
 ```
-### 3.5 
+### 3.5 Debris Flow Susceptibility Model
 A weighted linear combination (based on USGS), all layers normalized to 0–1.:
 ```
 Risk = 0.4 * BurnSeverity  
