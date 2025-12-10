@@ -94,7 +94,8 @@ root/
 ```
 
 ## 6.Data
-https://apps.nationalmap.gov/downloader/
+DEM: https://apps.nationalmap.gov/downloader/
+OSM(road network, places, everything): https://download.geofabrik.de/north-america/us/california/socal.html
 
 
 
