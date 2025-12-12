@@ -96,7 +96,7 @@ root/
 ## 6.Data
 DEM: https://apps.nationalmap.gov/downloader/
 OSM(road network, places, everything): https://download.geofabrik.de/north-america/us/california/socal.html
-Fire Parameter: https://www.mtbs.gov/
+Fire Parameter: https://www.mtbs.gov/ / https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters
 
 
 
